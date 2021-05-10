@@ -61,6 +61,7 @@
 
 <h2>Autenticação do Google</h2>
 
+<h3>http://localhost:3000/auth</h3>
 
 <img src="https://i.imgur.com/AUafAOc.png" width="600px" height="300px"/>
 
@@ -85,12 +86,15 @@ $ git clone https://github.com/valentimcanejo/Desafio-NAVI.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd desafio-navi
 
-# Instale as dependências
+# Para checar se está faltando instalar alguma dependência, use um destes comandos, recomendo ter o Yarn instalado
 $ npm install 
 ou
 $ yarn install
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+# COMANDO IMPORTANTE QUE É NECESSÁRIO PARA RODAR A APLICAÇÃO:
+$ yarn add react-scripts
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>, a autenticação esta no endereço <http://localhost:3000/auth>
 ```
 
 <h2>🛠 Tecnologias</h2>
