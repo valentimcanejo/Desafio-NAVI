@@ -69,7 +69,7 @@ const Login = () => {
                     </label>
                   </div>
                   <button
-                    class="btn btn-lg btn-primary btn-block text-uppercase"
+                    className="btn btn-lg btn-primary btn-block text-uppercase"
                     type="submit"
                   >
                     Login
