@@ -7,7 +7,7 @@ import Objetivos from "./components/Objetivos"
 import Evento from "./components/Evento"
 import Info from "./components/Info"
 import Inscricoes from "./components/Inscricoes"
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 import Login from "./components/Login"
 
 
@@ -15,7 +15,9 @@ function App() {
   return (
     <>
     <BrowserRouter>
+    <Redirect from='/' to='/auth' />
     <Switch>
+    
       <Route exact path="/">
             <Navbar />
             <Main />
