@@ -14,15 +14,14 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [React](#React)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Status do Projeto](#status-projeto)
-   * [Implementado](#implementado)
-   * [Autenticação](#autenticação)
-   * [Pré-requisitos](#pre-requisitos)
-   	* [Instalação](#instalacao)
-   * [Tecnologias](#tecnologias)	
-   * [Autor](#autor)
+   * React
+   * Tabela de Conteudo
+   * Status do Projeto
+   * Implementado
+   * Autenticação
+   * Pré-requisitos --> Instalação  	
+   * Tecnologias	
+   * Autor
    
 <!--te-->
 
