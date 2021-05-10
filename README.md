@@ -86,15 +86,12 @@ $ git clone https://github.com/valentimcanejo/Desafio-NAVI.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd desafio-navi
 
-# Para checar se está faltando instalar alguma dependência, use um destes comandos, recomendo ter o Yarn instalado
+# Use um destes comandos para instalar as dependências
 $ npm install 
 ou
 $ yarn install
 
-# COMANDO IMPORTANTE QUE É NECESSÁRIO PARA RODAR A APLICAÇÃO:
-$ yarn add react-scripts
-
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000>, a autenticação esta no endereço <http://localhost:3000/auth>
+# O servidor inciará na porta:3000 - com a url do login <http://localhost:3000/auth>
 ```
 
 <h2>🛠 Tecnologias</h2>
