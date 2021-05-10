@@ -48,8 +48,26 @@ O que foi implementado?
 <br>
 <br>
 
-A Aplicação rodando
+Prints de algumas seções da página
 ===================
+
+<img src="https://i.imgur.com/lkxcpvx.png" width="600px" height="300px"/>
+<img src="https://i.imgur.com/eFhigva.png" width="600px" height="300px"/>
+
+<img src="https://i.imgur.com/NKapzzg.png" width="600px" height="300px"/>
+<img src="https://i.imgur.com/gxXtA6D.png" width="600px" height="300px"/>
+
+<hr>
+<br>
+<br>
+
+Autenticação do Google
+===================
+
+<img src="https://i.imgur.com/AUafAOc.png" width="600px" height="300px"/>
+
+<img src="https://imgur.com/ZrsSurJ.png"/>
+
 <br>
 <br>
 
@@ -72,7 +90,7 @@ $ cd desafio-navi
 # Instale as dependências
 $ npm install 
 ou
-$ yarn add
+$ yarn install
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
@@ -96,4 +114,6 @@ Como resultado, coloquei uma função para mostrar no console os dados da pessoa
 :man: Autor
 ===================
 
-Rômulo Valentim
+<h2>Rômulo Valentim</h2>
+
+![alt text](https://smartsystem.s3.amazonaws.com/photos/12457141/original/photo_7636852.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIMBJS6RFDHCIKKYA%2F20210510%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210510T045816Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cce3630bb9e43b972d11d2bb0dd2e1e25686ffe7488b4043eb15b96eb6916e2e)
