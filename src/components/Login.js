@@ -23,20 +23,20 @@ const Login = () => {
   };
   return (
     <section className="login">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
-            <div class="card-hacka card-signin my-5">
-              <div class="card-body">
+      <div className="container">
+        <div className="row">
+          <div className="col-sm-9 col-md-7 col-lg-5 mx-auto">
+            <div className="card-hacka card-signin my-5">
+              <div className="card-body">
                 <img className="logo" src={logo} alt="logo..." />
                 <img className="logo-name" src={logoName} alt="logoName..." />
-                <h5 class="card-title text-center text-white">Login</h5>
-                <form class="form-signin">
-                  <div class="form-label-group">
+                <h5 className="card-title text-center text-white">Login</h5>
+                <form className="form-signin">
+                  <div className="form-label-group">
                     <input
                       type="email"
                       id="inputEmail"
-                      class="form-control"
+                      className="form-control"
                       placeholder="Email"
                       required
                       autofocus
@@ -44,25 +44,25 @@ const Login = () => {
                     <label for="inputEmail">Email</label>
                   </div>
 
-                  <div class="form-label-group">
+                  <div className="form-label-group">
                     <input
                       type="password"
                       id="inputPassword"
-                      class="form-control"
+                      className="form-control"
                       placeholder="Senha"
                       required
                     ></input>
                     <label for="inputPassword">Senha</label>
                   </div>
 
-                  <div class="custom-control custom-checkbox mb-3">
+                  <div className="custom-control custom-checkbox mb-3">
                     <input
                       type="checkbox"
-                      class="custom-control-input"
+                      className="custom-control-input"
                       id="customCheck1"
                     ></input>
                     <label
-                      class="custom-control-label text-white"
+                      className="custom-control-label text-white"
                       for="customCheck1"
                     >
                       Lembrar senha
