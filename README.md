@@ -60,7 +60,7 @@
 
 
 <h2>Autenticação do Google</h2>
-
+<h3>Atenção: A autenticação do form é apenas estática, o foco é o login com o Google!!!</h3>
 <h3>http://localhost:3000/auth</h3>
 
 <img src="https://i.imgur.com/AUafAOc.png" width="600px" height="300px"/>
